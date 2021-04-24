@@ -8,8 +8,8 @@ Repositório desenvolvido durante a aula de Flexbox da <a href="https://digitali
 <p align="center">
   <img src="https://img.shields.io/github/repo-size/kaiquegh/?style=plastic">
   <img src="https://img.shields.io/badge/made%20by-kaiquegh-green?style=plastic">
-  <img src="https://img.shields.io/github/last-commit/kaiquegh/livro-receitas?style=plastic">
-  <img src="https://img.shields.io/github/license/kaiquegh/lista-receitas?style=plastic">
+  <img src="https://img.shields.io/github/last-commit/kaiquegh/instagram-clone-dio?style=plastic">
+  <img src="https://img.shields.io/github/license/kaiquegh/instagram-clone-dio?style=plastic">
 </p>
 
 <p align="center">
