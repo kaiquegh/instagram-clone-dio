@@ -16,7 +16,7 @@ Repositório desenvolvido durante a aula de Flexbox da <a href="https://digitali
 <a href="#rocket-technology">Tecnologia</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#ballot_box_with_check-prerequisites">Pre-requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#up-getting-started">Começando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#pencil2-how-to-contribute">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#contribute">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
 
@@ -32,11 +32,11 @@ Repositório desenvolvido durante a aula de Flexbox da <a href="https://digitali
 
 ## [](#getting-started):up: Começando
 
--   Clone this repo
--  Enter the folder `clone-instagram-class-dio`
+-   Clone o repositorio
+-  Entre na pasta `instagram-clone-dio`
 
 
-## [](#how-to-contribute):pencil2: Como Contribuir
+## [](#contribute):pencil2: Como Contribuir
 
 -   Make a fork;
 -   Create a branck with your feature:  `git checkout -b my-feature`;
