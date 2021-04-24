@@ -51,4 +51,4 @@ Este Projeto esta sob a MIT license. Veja [LICENSE](https://github.com/robertoso
 
 ----------
 
-Made with by Kaique Heinen 👋  [Get in touch!](https://www.linkedin.com/in/kaique-heinen/)
+Feito por Kaique Heinen 👋  [Get in touch!](https://www.linkedin.com/in/kaique-heinen/)
