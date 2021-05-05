@@ -21,13 +21,13 @@ Repositório desenvolvido durante a aula de Flexbox da <a href="https://digitali
 </p>
 
 ## [](#technology):rocket: Tecnologia
--  <a href="https://www.w3schools.com/html/">HTML</a> — Linguagem de marcação para construir a estrutura da página.
+-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">HTML</a> — Linguagem de marcação para construir a estrutura da página.
 -  <a href="https://www.w3schools.com/css/">CSS</a> — Linguagem de estilo que nos permite criar estilos para nosso documento HTML
 
 
 ## [](#prerequisites):ballot_box_with_check: Pré-requisitos
--   [HTML](https://nodejs.org/en/)
--   [CSS](https://www.npmjs.com/) 
+-   [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+-   [CSS](https://www.w3schools.com/css/) 
 
 
 ## [](#getting-started):up: Começando
