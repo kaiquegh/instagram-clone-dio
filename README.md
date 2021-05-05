@@ -47,7 +47,7 @@ After merging your receipt request to done, you can delete a branch from yours.
 
 
 ## [](#license):memo: Licença
-Este Projeto esta sob a MIT license. Veja [LICENSE](https://github.com/robertosousa1/clone-instagram-class-dio/blob/master/LICENSE) para mais informações.
+Este Projeto esta sob a MIT license. Veja [LICENSE](https://github.com/kaiquegh/instagram-clone-dio/blob/main/LICENSE) para mais informações.
 
 ----------
 
